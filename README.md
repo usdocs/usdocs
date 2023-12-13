@@ -13,14 +13,20 @@
 
 ### Languages:
 <p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/usdocs/usdocs/1aa73e5f86c821ef54450e17fb8e30497e4947f3/icons/python.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/usdocs/usdocs/1aa73e5f86c821ef54450e17fb8e30497e4947f3/icons/python.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.iso.org/standard/76583.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/usdocs/usdocs/b6e58b1e88bd108e1c202d1463a9a7624d01f3b4/icons/SQL Database.svg" alt="sql" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/usdocs/usdocs/b6e58b1e88bd108e1c202d1463a9a7624d01f3b4/icons/CSS3.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/usdocs/usdocs/b6e58b1e88bd108e1c202d1463a9a7624d01f3b4/icons/HTML5.svg" alt="html5" width="40" height="40"/> </a> 
 </p>
 
 ### Tools:
 <p align="left"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/usdocs/usdocs/1aa73e5f86c821ef54450e17fb8e30497e4947f3/icons/linux.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="http://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/usdocs/usdocs/1aa73e5f86c821ef54450e17fb8e30497e4947f3/icons/Bash.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/usdocs/usdocs/1aa73e5f86c821ef54450e17fb8e30497e4947f3/icons/git.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/usdocs/usdocs/1aa73e5f86c821ef54450e17fb8e30497e4947f3/icons/PyCharm.svg" alt="pycharm" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/usdocs/usdocs/1aa73e5f86c821ef54450e17fb8e30497e4947f3/icons/git.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/usdocs/usdocs/1aa73e5f86c821ef54450e17fb8e30497e4947f3/icons/VS-code.svg" alt="vs-code" width="40" height="40"/> </a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/usdocs/usdocs/b6e58b1e88bd108e1c202d1463a9a7624d01f3b4/icons/SQLite.svg" alt="SQLite" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/usdocs/usdocs/b6e58b1e88bd108e1c202d1463a9a7624d01f3b4/icons/PostgresSQL.svg" alt="PostgresSQL" width="40" height="40"/> </a>
+<a href="https://dbeaver.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/usdocs/usdocs/b6e58b1e88bd108e1c202d1463a9a7624d01f3b4/icons/DBeaver.svg" alt="DBeaver" width="40" height="40"/> </a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/usdocs/usdocs/b6e58b1e88bd108e1c202d1463a9a7624d01f3b4/icons/postman-icon-svgrepo-com.svg" alt="postman" width="40" height="40"/> </a>
 </p>
