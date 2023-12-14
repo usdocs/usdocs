@@ -19,6 +19,14 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/usdocs/usdocs/b6e58b1e88bd108e1c202d1463a9a7624d01f3b4/icons/HTML5.svg" alt="html5" width="40" height="40"/> </a> 
 </p>
 
+### Frameworks:
+<p align="left"> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/usdocs/usdocs/24036aaf903a3d04a0aaf74c024bdb7757c3c2d7/icons/Django.svg" alt="django" width="40" height="40"/> </a>
+<a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/usdocs/usdocs/24036aaf903a3d04a0aaf74c024bdb7757c3c2d7/icons/Django%20REST.svg" alt="django-rest-framework" width="40" height="40"/> </a>
+<a href="https://flask.palletsprojects.com/en/latest/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/usdocs/usdocs/24036aaf903a3d04a0aaf74c024bdb7757c3c2d7/icons/Flask.svg" alt="flask" width="40" height="40"/> </a> 
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/usdocs/usdocs/24036aaf903a3d04a0aaf74c024bdb7757c3c2d7/icons/FastAPI.svg" alt="fastapi" width="40" height="40"/> </a> 
+</p>
+
 ### Tools:
 <p align="left"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/usdocs/usdocs/1aa73e5f86c821ef54450e17fb8e30497e4947f3/icons/linux.svg" alt="linux" width="40" height="40"/> </a> 
